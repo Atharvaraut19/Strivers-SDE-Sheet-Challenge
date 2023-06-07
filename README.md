@@ -7,3 +7,4 @@
 ## *Day 1*
 1. [Balance Paranthesis](https://takeuforward.org/data-structure/check-for-balanced-parentheses/)
 
+2.Implement Stack using Arrays
