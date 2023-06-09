@@ -11,3 +11,6 @@
 
 ## *Day 2*
 1.[Detect_cycle_in_Linked List](https://www.codingninjas.com/codestudio/problems/cycle-detection-in-a-singly-linked-list_8230683?challengeSlug=striver-sde-challenge)
+
+## *Day 3*
+1.[Sort_A_Stack](https://www.codingninjas.com/codestudio/problems/sort-a-stack_985275?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website&leftPanelTab=1)
