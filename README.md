@@ -14,3 +14,8 @@
 
 ## *Day 3*
 1.[Sort_A_Stack](https://www.codingninjas.com/codestudio/problems/sort-a-stack_985275?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website&leftPanelTab=1)
+
+## *Day 4*
+1.[Next_Greater_Number](https://www.codingninjas.com/codestudio/problems/next-greater-element_8230718?challengeSlug=striver-sde-challenge)
+
+2.[Implementation_of_Queue]
