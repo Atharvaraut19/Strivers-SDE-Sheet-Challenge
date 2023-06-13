@@ -19,3 +19,10 @@
 1.[Next_Greater_Number](https://www.codingninjas.com/codestudio/problems/next-greater-element_8230718?challengeSlug=striver-sde-challenge)
 
 2.[Implementation_of_Queue]
+
+## *Day 5*
+
+## *Day 6*
+1.[Reverse-A-LinkedList](https://www.codingninjas.com/codestudio/problems/reverse-linked-list_8230724?challengeSlug=striver-sde-challenge&leftPanelTab=1)
+
+2.[Middle-Of-A-LinkedList](https://www.codingninjas.com/codestudio/problems/middle-of-linked-list_8230764?challengeSlug=striver-sde-challenge)
