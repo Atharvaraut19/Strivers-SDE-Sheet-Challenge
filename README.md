@@ -23,6 +23,8 @@
 ## *Day 5*
 
 ## *Day 6*
-1.[Reverse-A-LinkedList](https://www.codingninjas.com/codestudio/problems/reverse-linked-list_8230724?challengeSlug=striver-sde-challenge&leftPanelTab=1)
+1.[Reverse_A_LinkedList](https://www.codingninjas.com/codestudio/problems/reverse-linked-list_8230724?challengeSlug=striver-sde-challenge&leftPanelTab=1)
 
-2.[Middle-Of-A-LinkedList](https://www.codingninjas.com/codestudio/problems/middle-of-linked-list_8230764?challengeSlug=striver-sde-challenge)
+2.[Middle_Of_A_LinkedList](https://www.codingninjas.com/codestudio/problems/middle-of-linked-list_8230764?challengeSlug=striver-sde-challenge)
+
+3.[Delete_Kth_Node_From_End](https://www.codingninjas.com/codestudio/problems/delete-kth-node-from-end_8230725?challengeSlug=striver-sde-challenge&leftPanelTab=1)
