@@ -28,3 +28,7 @@
 2.[Middle_Of_A_LinkedList](https://www.codingninjas.com/codestudio/problems/middle-of-linked-list_8230764?challengeSlug=striver-sde-challenge)
 
 3.[Delete_Kth_Node_From_End](https://www.codingninjas.com/codestudio/problems/delete-kth-node-from-end_8230725?challengeSlug=striver-sde-challenge&leftPanelTab=1)
+
+
+## *Day 7*
+1.[Delete_A_Node_in_LinkedList](https://www.codingninjas.com/codestudio/problems/delete-node-in-a-linked-list_8230813?challengeSlug=striver-sde-challenge&leftPanelTab=1)
