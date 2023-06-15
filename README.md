@@ -32,3 +32,7 @@
 
 ## *Day 7*
 1.[Delete_A_Node_in_LinkedList](https://www.codingninjas.com/codestudio/problems/delete-node-in-a-linked-list_8230813?challengeSlug=striver-sde-challenge&leftPanelTab=1)
+
+
+## *Day 8*
+1.[Add_two_numbers_as_LinkedList_in_A_LinkedList](https://www.codingninjas.com/codestudio/problems/add-two-numbers-as-linked-lists_8230833?challengeSlug=striver-sde-challenge&leftPanelTab=1)
