@@ -36,3 +36,5 @@
 
 ## *Day 8*
 1.[Add_two_numbers_as_LinkedList_in_A_LinkedList](https://www.codingninjas.com/codestudio/problems/add-two-numbers-as-linked-lists_8230833?challengeSlug=striver-sde-challenge&leftPanelTab=1)
+
+2.[Merge_Two_Sorted_Lists_in_A_LinkedList](https://www.codingninjas.com/codestudio/problems/merge-two-sorted-linked-lists_8230729?challengeSlug=striver-sde-challenge&leftPanelTab=1)
