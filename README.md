@@ -47,3 +47,7 @@
 3.[Inorder_Tree_traversal](https://www.codingninjas.com/codestudio/problems/inorder-traversal_8230857?challengeSlug=striver-sde-challenge)
 
 4.[Postorder_Tree_traversal](https://www.codingninjas.com/codestudio/problems/postorder-traversal_8230858?challengeSlug=striver-sde-challenge&leftPanelTab=1)
+
+
+## *Day 10*
+1.[Zero_Matrix](https://www.codingninjas.com/codestudio/problems/set-matrix-zeros_8230862?challengeSlug=striver-sde-challenge)
