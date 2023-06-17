@@ -40,4 +40,10 @@
 2.[Merge_Two_Sorted_Lists_in_A_LinkedList](https://www.codingninjas.com/codestudio/problems/merge-two-sorted-linked-lists_8230729?challengeSlug=striver-sde-challenge&leftPanelTab=1)
 
 ## *Day 9*
-1.[Flatten_A_LinkedList](https://www.codingninjas.com/codestudio/problems/palindrome-linked-list_8230717?challengeSlug=striver-sde-challenge&leftPanelTab=1)
+1.[Palindrome_A_LinkedList](https://www.codingninjas.com/codestudio/problems/palindrome-linked-list_8230717?challengeSlug=striver-sde-challenge&leftPanelTab=1)
+
+2.[Preorder_Tree_traversal](https://www.codingninjas.com/codestudio/problems/preorder-traversal_8230856?challengeSlug=striver-sde-challenge&leftPanelTab=1)
+
+3.[Inorder_Tree_traversal](https://www.codingninjas.com/codestudio/problems/inorder-traversal_8230857?challengeSlug=striver-sde-challenge)
+
+4.[Postorder_Tree_traversal](https://www.codingninjas.com/codestudio/problems/postorder-traversal_8230858?challengeSlug=striver-sde-challenge&leftPanelTab=1)
