@@ -51,3 +51,5 @@
 
 ## *Day 10*
 1.[Zero_Matrix](https://www.codingninjas.com/codestudio/problems/set-matrix-zeros_8230862?challengeSlug=striver-sde-challenge)
+
+2.[Roman_To_Integer](https://www.codingninjas.com/codestudio/problems/981308?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website&leftPanelTab=1)
