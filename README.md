@@ -66,3 +66,10 @@
 1.[Stock_Sell_Buy](https://www.codingninjas.com/codestudio/problems/893405?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website&leftPanelTab=1)
 
 2.[Integer_To_Roman]
+
+
+## *Day 13*
+
+1.[Missing_And_Duplicates](https://www.codingninjas.com/codestudio/problems/873366?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website)
+
+2.[]
