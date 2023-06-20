@@ -57,3 +57,12 @@
 
 ## *Day 11*
 1.[Atoi](https://www.codingninjas.com/codestudio/problems/981270?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website&leftPanelTab=1)
+
+2.[Sort 0 1 2](https://www.codingninjas.com/codestudio/problems/631055?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website&leftPanelTab=1)
+
+
+## *Day 12*
+
+1.[Stock_Sell_Buy](https://www.codingninjas.com/codestudio/problems/893405?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website&leftPanelTab=1)
+
+2.[Integer_To_Roman]
