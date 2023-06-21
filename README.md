@@ -72,4 +72,4 @@
 
 1.[Missing_And_Duplicates](https://www.codingninjas.com/codestudio/problems/873366?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website)
 
-2.[]
+2.[Duplicates_In_Array](https://www.codingninjas.com/codestudio/problems/1112602?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website&leftPanelTab=1)
