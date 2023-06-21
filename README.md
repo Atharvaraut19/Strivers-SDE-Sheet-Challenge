@@ -73,3 +73,8 @@
 1.[Missing_And_Duplicates](https://www.codingninjas.com/codestudio/problems/873366?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website)
 
 2.[Duplicates_In_Array](https://www.codingninjas.com/codestudio/problems/1112602?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website&leftPanelTab=1)
+
+
+## *Day 14*
+
+1.[Maximum_Subarray_Sum](https://www.codingninjas.com/studio/problems/maximum-subarray-sum_8230694?challengeSlug=striver-sde-challenge&leftPanelTab=1)
