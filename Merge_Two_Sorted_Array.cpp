@@ -30,3 +30,26 @@ vector<int> ninjaAndSortedArrays(vector<int>& arr1, vector<int>& arr2, int m, in
 	}
 	return ans;
 }
+
+/*
+## OPTIMAL WAY where no new array required 
+vector<int> ninjaAndSortedArrays(vector<int>& arr1, vector<int>& arr2, int m, int n)
+{
+    int l  = m-1;
+    int r = 0;
+    while(l>=0 && r<n)
+    {
+        if(arr1[l]<arr[r])
+        {
+            swap(arr1[l],arr[r]);
+            l--;
+            r++;
+        }
+        else
+        {
+            break;
+        }
+        sort(arr1,arr1+m)
+        sort(arr2,arr2+n)
+    }
+*/
