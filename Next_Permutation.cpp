@@ -29,4 +29,4 @@ vector<int> nextPermutation(vector<int> &permutation, int n)
     reverse(permutation.begin()+dip+1 ,permutation.end());
     return permutation;
 
-}
+} 

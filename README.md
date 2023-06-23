@@ -80,3 +80,11 @@
 1.[Maximum_Subarray_Sum](https://www.codingninjas.com/studio/problems/maximum-subarray-sum_8230694?challengeSlug=striver-sde-challenge&leftPanelTab=1)
 
 2.[Next_Permutation](https://www.codingninjas.com/codestudio/problems/893046?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website&leftPanelTab=1)
+
+## *Day 15*
+
+1.[Pascal_Triangle](https://www.codingninjas.com/codestudio/problems/print-pascal-s-triangle_6917910?utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_Arrayproblems&leftPanelTab=1)
+
+2.[Pascal_Triangle]
+
+3.[Merge_Two_Sorted_Arrays]
