@@ -87,4 +87,4 @@
 
 2.[Pascal_Triangle]
 
-3.[Merge_Two_Sorted_Arrays]
+3.[Merge_Two_Sorted_Arrays](https://www.codingninjas.com/studio/problems/merge-two-sorted-arrays_8230835?challengeSlug=striver-sde-challenge&leftPanelTab=1)
