@@ -88,3 +88,5 @@
 2.[Modular_Exponentiation](https://www.codingninjas.com/codestudio/problems/1082146?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website&leftPanelTab=0)
 
 3.[Merge_Two_Sorted_Arrays](https://www.codingninjas.com/studio/problems/merge-two-sorted-arrays_8230835?challengeSlug=striver-sde-challenge&leftPanelTab=1)
+
+4.[Search_2D](https://www.codingninjas.com/studio/problems/search-in-a-2d-matrix_8230773?challengeSlug=striver-sde-challenge)
