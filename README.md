@@ -85,6 +85,6 @@
 
 1.[Pascal_Triangle](https://www.codingninjas.com/codestudio/problems/print-pascal-s-triangle_6917910?utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_Arrayproblems&leftPanelTab=1)
 
-2.[Pascal_Triangle]
+2.[Modular_Exponentiation](https://www.codingninjas.com/codestudio/problems/1082146?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website&leftPanelTab=0)
 
 3.[Merge_Two_Sorted_Arrays](https://www.codingninjas.com/studio/problems/merge-two-sorted-arrays_8230835?challengeSlug=striver-sde-challenge&leftPanelTab=1)
