@@ -95,3 +95,5 @@
 ## *Day 16*
 
 1.[Intersection_of_Two_Linked_Lists](https://www.codingninjas.com/codestudio/problems/630457?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website&leftPanelTab=0)
+
+2.[Majority_element](https://www.codingninjas.com/studio/problems/day-6-majority-element_8230731?challengeSlug=striver-sde-challenge&leftPanelTab=0)
