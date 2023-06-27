@@ -103,3 +103,6 @@
 1.[Linked_List_Cycle_II](https://www.codingninjas.com/studio/problems/1112628?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website&leftPanelTab=1)
 
 2.[Remove_Duplicates_from_Sorted_Array](https://www.codingninjas.com/studio/problems/remove-duplicates-from-sorted-array_8230811?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+
+## *Day 18*
+1.[Majority_ElementII](https://www.codingninjas.com/studio/problems/majority-element_6915220?utm_source=striver&utm_medium=website&utm_campaign=codestudio_a_zcourse&leftPanelTab=0)
