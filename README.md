@@ -112,3 +112,7 @@
 ## *Day 19*
 
 1.[Longest_Palindromic_Substring](https://www.codingninjas.com/studio/problems/longest-palindromic-substring_758900?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website&leftPanelTab=0)
+
+## *Day 20*
+
+1.[Level_Order_Traversal](https://www.codingninjas.com/studio/problems/796002?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website&leftPanelTab=0)
