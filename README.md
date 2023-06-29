@@ -108,3 +108,7 @@
 1.[Majority_ElementII](https://www.codingninjas.com/studio/problems/majority-element_6915220?utm_source=striver&utm_medium=website&utm_campaign=codestudio_a_zcourse&leftPanelTab=0)
 
 2.[Subset_Sum](https://www.codingninjas.com/studio/problems/subset-sum_3843086?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website&leftPanelTab=0)
+
+## *Day 19*
+
+1.[Longest_Palindromic_Substring](https://www.codingninjas.com/studio/problems/longest-palindromic-substring_758900?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website&leftPanelTab=0)
