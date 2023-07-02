@@ -121,3 +121,7 @@
 ## *Day 21*
 
 1.[Find_Minimum_Number_Of_Coins](https://www.codingninjas.com/studio/problems/975277?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website&leftPanelTab=0)
+
+## *Day 22*
+
+1.[Anagram](https://www.codingninjas.com/studio/problems/1172164?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website)
