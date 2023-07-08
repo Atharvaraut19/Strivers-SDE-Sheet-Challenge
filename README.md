@@ -125,3 +125,7 @@
 ## *Day 22*
 
 1.[Anagram](https://www.codingninjas.com/studio/problems/1172164?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website)
+
+## *Day 23*
+
+1.[Subset_Sum]()
