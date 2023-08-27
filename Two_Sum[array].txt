@@ -1,0 +1,4 @@
+https://leetcode.com/problems/two-sum/
+Easy
+Create a hastable(Dictonary). Store the value and its index.
+Iterate through the array subtract the value from the target variable and check if the subtracted value is present or not in the dictonary
